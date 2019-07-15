@@ -1,0 +1,107 @@
+#father{
+	border: 0px solid red;
+	width: 1300px;
+	margin:0 auto;
+	text-align: center;
+}
+#top{
+	border: 0px solid black;
+	margin:0 auto;
+	text-align: center;
+}
+#bed1{
+	border: 0px solid black;
+	height: 60px;
+	margin:0 auto;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 140px;
+	padding-right: 140px;
+}
+.bed1_small{
+	text-align: center;
+	margin: 10px;
+	width: 230px;
+	float: left;
+}
+#bed2{
+	border: 0px solid black;
+	height: 410px;
+	
+	margin:0 auto;
+	text-align: center;
+	padding-top: 10px;
+}
+#bed2_left{
+	border: 0px solid black;
+	height: 410px;
+	width: 420px;
+	padding-left: 200px;
+	padding-right: 50px;
+	float: left;
+}
+#bed2_right{
+	border: 0px solid black;
+	height: 410px;
+	width: 420px;
+	padding-right: 190px;
+	float: left;
+}
+.word{
+	border: 0px solid black;
+	height: 100px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+#bed4{
+	border: 0px solid black;
+	height: 310px;
+}
+#bed4_left{
+	width: 200px;
+	float: left;
+	padding-left: 190px;
+}
+.bed4_small{
+	width: 200px;
+	float: left;
+	padding-left: 40px;
+}
+#bed5{
+	border: 0px solid red;
+	height: 360px;
+	margin:0 auto;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 180px;
+	padding-right: 180px;
+}
+.bed6{
+	border: 0px solid blue;
+	height: 420px;
+	
+}
+.bed6_left{
+	width: 350px;
+	padding-left: 220px;
+	float: left;
+}
+.bed6_right{
+	width: 350px;
+	padding-left: 120px;
+	float: left;
+
+}
+.product{
+	padding-left:80px;
+	width: 1210px; 
+	margin: 0 auto;
+	height:250px;
+	
+}
+.smallproduct{
+	margin:20px;
+	float: left;
+}
+

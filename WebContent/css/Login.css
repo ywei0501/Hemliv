@@ -1,0 +1,57 @@
+#father{
+	background: url(/Hemliv_1/bg_image/bg.jpg) no-repeat center;
+	background-size: cover;
+	height: 606px;
+	width: 1340px;
+	margin: auto;
+	opacity: 0.8;
+}
+#top{
+	border: 0px solid red;
+	width: 1350px;
+	height: 70px;
+	text-align: center;
+	margin: 10px;
+}
+#lan_top{
+	margin: auto;
+	text-align: center;
+}
+#main{
+	border: 0px solid blue;
+	width: 400px;
+	height: 350px;
+	margin:0 auto;
+	text-align: center;
+	padding-top: 20px;
+}
+#main_top{
+	border: 0px solid red;
+	margin: 10px;
+	padding-bottom: 40px;
+
+}
+.input{
+	border: 0px solid yellow;
+	margin: 25px;
+}
+#main_bottom_left{
+	border: 0px solid green;
+	text-align: left;
+	width: 150px;
+	padding-left: 45px;
+	float: left;
+}
+#main_bottom_right{
+	border: 0px solid blue;
+	text-align: right;
+	width: 150px;
+	padding-right: 0px;
+	float: left;
+}
+#lan_bottom{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
